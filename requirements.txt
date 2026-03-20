@@ -1,5 +1,6 @@
 streamlit==1.32.0
 rembg==2.0.50
+onnxruntime==1.17.0
 pillow==10.2.0
 streamlit-image-comparison==0.0.4
-onnxruntime==1.17.0
+numpy==1.26.4
